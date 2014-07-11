@@ -1,0 +1,14 @@
+{
+  "name": "basic-oop",
+  "version": "0.0.0",
+  "description": "This project is a basic introduction to object oriented programming.",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "sync-prompt": "^0.4.1"
+  },
+  "devDependencies": {},
+  "author": "Logan Richardson",
+  "license": "ISC",
+  "homepage": "https://github.com/GLoganDR/basic-oop"
+}
